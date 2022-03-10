@@ -38,29 +38,29 @@ ___
 uil("경로") : 이미지 경로
 ___
 ### background-repeat
-repeat: 이미지를 수직, 수평 반복
-repeat-x: 이미지를 수평 반복
-repeat-y: 이미지를 수직 반복
+repeat: 이미지를 수직, 수평 반복<br/>
+repeat-x: 이미지를 수평 반복<br/>
+repeat-y: 이미지를 수직 반복<br/>
 no-repeat: 반복 없음
 ___
 ### background-position
-방향 : top, bottom, left, right, center 방향 을 지정할수 있다.
+방향 : top, bottom, left, right, center 방향 을 지정할수 있다.<br/>
 단위 : px, 등등 단위로 지정 가능
 ___
 ### background-size
-auto: 이미지 실제 크기 지정
-cover: 비율을 유지, 요소의 더넓은 너비에 맞춤
+auto: 이미지 실제 크기 지정<br/>
+cover: 비율을 유지, 요소의 더넓은 너비에 맞춤<br/>
 contain: 비율을 유지, 요소의 더 짧은 너비에 맞춤
 ___
 ### background-attachment
-scroll: 이미지가 요소를 따라서 같이 스크롤
+scroll: 이미지가 요소를 따라서 같이 스크롤<br/>
 fixed: 이미지가 뷰포트에 고정, 스크롤 x
 ___
 ## 배치
 ### position
-relative : 요소 자신을 기준
-absolute : 위치 상 부모 요소를 기준 
-fixed: 뷰포트 를 기준
-*css 속성들을 모두 음수 사용 가능*
+relative : 요소 자신을 기준<br/>
+absolute : 위치 상 부모 요소를 기준<br/> 
+fixed: 뷰포트 를 기준<br/>
+*css 속성들을 모두 음수 사용 가능*<br/>
 z-index : 요소의 쌓임 정도를 지정
 ___
